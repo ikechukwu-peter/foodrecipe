@@ -36,6 +36,8 @@
 .header {
   display: flex;
   position:sticky;
+  margin-right: 10px;
+  text-align: center;
   justify-content: center;
   align-items: center;
   color: #5e0663;
